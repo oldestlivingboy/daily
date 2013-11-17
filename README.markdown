@@ -1,1 +1,1 @@
-[New York's finest daily blog](http://byoogle.blogspot.com/).
+Assets for my blog, [The Daily Byoogle](http://byoogle.blogspot.com/).
